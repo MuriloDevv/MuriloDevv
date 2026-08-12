@@ -76,11 +76,11 @@ while True:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=111111&hide_border=true" width="100%" alt="Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=000000&color=B0B0B0&line=808080&point=FFFFFF&area=true&area_color=1A1A1A&hide_border=true" width="100%" alt="Contribution Graph">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloDevv&background=000000&border=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&hide_border=true" width="90%" alt="Commit Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloDevv&theme=dark&background=000000&border=333333&stroke=333333&ring=808080&fire=808080&currStreakLabel=B0B0B0&sideLabels=B0B0B0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&hide_border=true" width="90%" alt="Commit Streak">
 
 </div>
 
