@@ -18,7 +18,7 @@
 
 ---
 
-## `01` · **About Me**
+## `01` · About Me
 
 I'm **Murilo**, a developer focused on **Web Development** and **Backend Programming**.
 
@@ -35,26 +35,26 @@ while True:
 
 ---
 
-**02 · Languages**
+02 · Languages
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark"></div>
 ---
 
-**03 · Skills**
+03 · Skills
 
 <div align="center"><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark"></div>
 ---
 
-**04 · GitHub Analytics**
+04 · GitHub Analytics
 
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuriloDevv&theme=github_dark"><br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloDevv&theme=github_dark"></div>
 ---
 
-**05 · Contributions**
+05 · Contributions
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"></div> 
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"></div>
 ---
 
 <div align="center"><br>Code. Learn. Build. Repeat.
