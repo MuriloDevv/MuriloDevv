@@ -72,16 +72,6 @@ while True:
 
 <hr>
 
-<h2>GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&hide_border=true&bg_color=000000&title_color=B0B0B0&text_color=999999&icon_color=808080&ring_color=808080&include_all_commits=true&count_private=true" width="90%" alt="GitHub Stats">
-
-</div>
-
-<hr>
-
 <h2>Contributions</h2>
 
 <div align="center">
