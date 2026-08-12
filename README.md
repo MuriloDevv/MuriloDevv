@@ -26,7 +26,7 @@ Currently learning and improving my skills in **Python, Java, Flask, PostgreSQL,
 
 I like building **practical projects**, understanding how things work behind the scenes and constantly improving my code.
 
-    python
+```python
 while True:
     learn()
     build()
@@ -35,17 +35,19 @@ while True:
 
 ---
 
-*02* · Skills
+**02 · Languages
 
-<div align="center"><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark"></div>
-
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark"></div>
 ---
 
-*03* · GitHub Analytics
+03 · Skills
+
+<div align="center"><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark"></div>
+---
+
+04 · GitHub Analytics
 
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuriloDevv&theme=github_dark"><br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuriloDevv&theme=github_dark"><br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloDevv&theme=github_dark"></div>
 ---
@@ -59,4 +61,4 @@ while True:
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS" alt="Profile Views"></div>
+<img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS" alt="Profile Views"></div>**
