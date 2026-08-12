@@ -3,10 +3,10 @@
 
 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙈𝙪𝙧𝙞𝙡𝙤'𝙨 𝙂𝙞𝙩𝙝𝙪𝙗
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+Flask+%E2%80%A2+PostgreSQL;Building+projects+and+learning+every+day" alt="Typing subtitle">
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+Web+Development;Building+and+learning+every+day" alt="Typing subtitle">
 </p><br><a href="https://github.com/MuriloDevv">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a></div>---
 
 <div align="center">💻 Languages
@@ -35,23 +35,11 @@ while True:
     build()
     improve()
 
----
+<div align="center"><br><img src="https://i.pinimg.com/736x/23/f1/60/23f160da513235ec52a3181bed119531.jpg" width="180"></div>---
 
-<div align="center">🛠️ Tech Stack
+<div align="center">🛠️ Technologies
 
 <br><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark" width="65%"></div>---
-
-🚀 Current Project
-
-TireStock
-
-Inventory management system focused on making tire shop stock control simple, organized and professional.
-
-Built with:
-
-"Python" · "Flask" · "PostgreSQL" · "HTML" · "CSS"
-
----
 
 📊 GitHub Analytics
 
@@ -65,7 +53,7 @@ Built with:
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Murilo's%20Contributions" width="100%"></div>---
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"><br><br>
+<div align="center"><br><img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"><br><br>
 
 "Code. Learn. Build. Repeat."
 
