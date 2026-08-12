@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark" alt="Languages">
+<img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark" width="70%" alt="Languages">
 
 <br><br>
 
@@ -66,17 +66,7 @@ while True:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,java,flask,postgresql,git,github&theme=dark" alt="Skills">
-
-</div>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="90%" alt="GitHub Stats">
+<img src="https://skillicons.dev/icons?i=html,css,python,java,flask,postgresql,git,github&theme=dark" width="80%" alt="Skills">
 
 </div>
 
