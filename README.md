@@ -1,60 +1,41 @@
+<div align="center">
 
-<div align="center"><img src="https://i.pinimg.com/736x/74/7f/32/747f3259d7ba13e137721399b946b4cc.jpg" width="100%"><br><br>
+<img src="https://i.pinimg.com/736x/74/7f/32/747f3259d7ba13e137721399b946b4cc.jpg" width="100%">
 
-𝙈𝙪𝙧𝙞𝙡𝙤𝘿𝙚𝙫𝙫
+<br><br>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing subtitle">
-</p><br><a href="https://github.com/MuriloDevv">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub">
-</a></div>---
+# 𝙈𝙪𝙧𝙞𝙡𝙤𝘿𝙚𝙫𝙫
 
-💻 Languages
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing">
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark" width="70%"></div>---
+<br>
 
-👨‍💻 About Me
+<a href="https://github.com/MuriloDevv">
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000">
+</a>
 
-Hey! I'm Murilo.
+</div>
 
-I'm a developer focused on Web Development and Backend Programming.
+---
 
-Currently improving my skills with:
+## `01` · About Me
 
-- HTML & CSS
-- Python
-- Java
-- Flask
-- PostgreSQL
-- Git & GitHub
+I'm Murilo, a developer focused on **Web Development** and **Backend Programming**.
 
-I enjoy creating projects, learning new technologies and understanding how things work behind the scenes.
+Currently learning and improving my skills in **Python, Java, Flask, PostgreSQL, HTML, CSS, Git and GitHub**.
 
+I like building practical projects, understanding how things work behind the scenes and constantly improving my code.
+
+<br>
+
+<div align="right">
+
+<img src="https://i.pinimg.com/736x/23/f1/60/23f160da513235ec52a3181bed119531.jpg" width="145">
+
+</div>
+
+```python
 while True:
     learn()
     build()
     improve()
-
-<br><div align="right"><img src="https://i.pinimg.com/736x/23/f1/60/23f160da513235ec52a3181bed119531.jpg" width="150"></div>---
-
-⚙️ Skills
-
-<div align="center"><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark" width="60%"></div>---
-
-📊 GitHub Analytics
-
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuriloDevv&theme=github_dark" width="95%"><br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuriloDevv&theme=github_dark" width="95%"><br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloDevv&theme=github_dark" width="100%"></div>---
-
-📈 Contributions
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"></div>---
-
-<div align="center"><br>"Code. Learn. Build. Repeat."
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS" alt="Profile Views"></div>
