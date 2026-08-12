@@ -35,7 +35,9 @@ I'm a developer focused on <strong>Web Development</strong> and
 <strong>Backend Programming</strong>.
 </p>
 
-<p>Currently improving my skills with:</p>
+<p>
+Currently improving my skills with:
+</p>
 
 <ul>
   <li><strong>HTML & CSS</strong></li>
@@ -74,11 +76,11 @@ while True:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="90%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="90%" alt="GitHub Stats">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDevv&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="90%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDevv&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="90%" alt="Languages">
 
 </div>
 
