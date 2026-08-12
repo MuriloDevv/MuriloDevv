@@ -57,6 +57,7 @@ while True:
 ⚙️ Skills
 
 <div align="center"><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark"></div>
+
 ---
 
 📊 GitHub Analytics
@@ -64,11 +65,13 @@ while True:
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuriloDevv&theme=github_dark"><br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloDevv&theme=github_dark"></div>
+
 ---
 
 📈 Contributions
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"></div>
+
 ---
 
 <div align="center">Code. Learn. Build. Repeat.
@@ -76,4 +79,3 @@ while True:
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS"></div>
-```0
