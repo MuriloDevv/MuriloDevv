@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/12/6c/d4/126cd4743e0db4200613a6149fa622b2.jpg" width="100%" alt="Banner">
+<img src="https://i.pinimg.com/736x/74/7f/32/747f3259d7ba13e137721399b946b4cc.jpg" width="100%" alt="Banner">
 
 <br><br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark" width="45%" alt="Languages">
+<img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark" width="30%" alt="Languages">
 
 <br><br>
 
@@ -66,7 +66,7 @@ while True:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark" width="45%" alt="Skills">
+<img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark" width="30%" alt="Skills">
 
 </div>
 
