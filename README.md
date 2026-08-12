@@ -35,11 +35,11 @@ while True:
     build()
     improve()
 
-<div align="center"><br><img src="https://i.pinimg.com/736x/23/f1/60/23f160da513235ec52a3181bed119531.jpg" width="180"></div>---
+<div align="center"><br><img src="https://i.pinimg.com/736x/23/f1/60/23f160da513235ec52a3181bed119531.jpg" width="180"></div>
 
 <div align="center">🛠️ Technologies
 
-<br><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark" width="65%"></div>---
+<br><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark" width="65%"></div>
 
 📊 GitHub Analytics
 
@@ -47,11 +47,11 @@ while True:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuriloDevv&theme=github_dark" width="95%"><br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloDevv&theme=github_dark" width="100%"></div>---
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloDevv&theme=github_dark" width="100%"></div>
 
 📈 Contribution Graph
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Murilo's%20Contributions" width="100%"></div>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Murilo's%20Contributions" width="100%"></div>
 
 <div align="center"><br><img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"><br><br>
 
