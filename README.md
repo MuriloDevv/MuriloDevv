@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/12/6c/d4/126cd4743e0db4200613a6149fa622b2.jpg" width="110%" alt="Banner">
+<img src="https://i.pinimg.com/736x/74/7f/32/747f3259d7ba13e137721399b946b4cc.jpg" width="100%" alt="Banner">
 
 <br><br>
 
@@ -67,6 +67,16 @@ while True:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark" width="30%" alt="Skills">
+
+</div>
+
+<hr>
+
+<h2>GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&hide_border=true&bg_color=000000&title_color=B0B0B0&text_color=999999&icon_color=808080&ring_color=808080&include_all_commits=true&count_private=true" width="90%" alt="GitHub Stats">
 
 </div>
 
