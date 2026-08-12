@@ -6,13 +6,21 @@
 
 <h1>𝙈𝙪𝙧𝙞𝙡𝙤𝘿𝙚𝙫𝙫</h1>
 
-<p><strong>Backend Developer • Python • Java • Web Development</strong></p>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing">
+</p>
+
+<br>
 
 <p>
+<img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark">
+</p>
+
+<br>
+
 <a href="https://github.com/MuriloDevv">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-</p>
 
 </div>
 
@@ -20,7 +28,9 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<p>Hey! I'm <strong>Murilo</strong>.</p>
+<p>
+Hey! I'm <strong>Murilo</strong>.
+</p>
 
 <p>
 I'm a developer focused on <strong>Web Development</strong> and
@@ -56,7 +66,7 @@ while True:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,java,flask,postgresql,git,github&theme=dark">
+<img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark">
 
 </div>
 
@@ -66,11 +76,11 @@ while True:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="90%">
+<img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&theme=github_dark&hide_border=true" width="90%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDevv&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="90%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDevv&layout=compact&theme=github_dark&hide_border=true" width="90%">
 
 </div>
 
