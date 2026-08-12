@@ -35,18 +35,13 @@ while True:
 
 ---
 
-02 · Languages
-
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark"></div>
----
-
-03 · Skills
+*02* · Skills
 
 <div align="center"><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark"></div>
 
 ---
 
-04 · GitHub Analytics
+*03* · GitHub Analytics
 
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuriloDevv&theme=github_dark"><br><br>
 
