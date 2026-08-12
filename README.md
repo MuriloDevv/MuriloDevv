@@ -1,49 +1,46 @@
 <div align="center">
 
-<img src="COLOQUE_AQUI_O_BANNER_DO_PINTEREST" width="100%">
+<img src="https://i.pinimg.com/736x/74/7f/32/747f3259d7ba13e137721399b946b4cc.jpg" width="100%">
 
-# Hi, I'm Murilo 👋
+<br><br>
 
-### 💻 HTML & CSS Developer | 🐍 Python | 🚀 Backend
+<img src="https://i.pinimg.com/736x/23/f1/60/23f160da513235ec52a3181bed119531.jpg" width="120px">
+
+# 👋 Hey, I'm Murilo!
+
+### 💻 Developer • HTML & CSS • Python • Backend
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a developer focused on learning **web development and backend programming**.
+I'm a developer focused on **web development and backend programming**.
 
-Currently improving my skills in:
-
-- HTML
-- CSS
-- Python
-- Flask
-- SQL
-- Git & GitHub
-
-I like building real projects and turning ideas into functional applications.
+Currently learning and improving my skills by building real projects.
 
 ---
 
-## 🛠️ Technologies
+## ⚡ Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,flask,postgresql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,python,flask,postgresql,git,github,vscode">
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🛞 TireStock
 
-Inventory management system developed with **Python + Flask + PostgreSQL**.
+Inventory management system built with:
 
-> Stock control • Products • Customers • Services • Authentication
+**Python • Flask • PostgreSQL**
+
+`Inventory` • `Products` • `Customers` • `Services` • `Authentication`
 
 ---
 
@@ -51,9 +48,9 @@ Inventory management system developed with **Python + Flask + PostgreSQL**.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&theme=tokyonight&hide_border=true">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDevv&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
 
@@ -63,23 +60,7 @@ Inventory management system developed with **Python + Flask + PostgreSQL**.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Connect with me
-
-<div align="center">
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="SEU_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://streak-stats.demolab.com?user=MuriloDevv&theme=tokyonight&hide_border=true">
 
 </div>
 
@@ -87,6 +68,6 @@ Inventory management system developed with **Python + Flask + PostgreSQL**.
 
 <div align="center">
 
-### 💻 "Always learning. Always building."
+### 💻 Always learning. Always building.
 
 </div>
