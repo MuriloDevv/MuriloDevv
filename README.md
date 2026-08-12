@@ -6,7 +6,9 @@
 
 # 𝙈𝙪𝙧𝙞𝙡𝙤𝘿𝙚𝙫𝙫
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing subtitle">
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing">
+</p>
 
 <br>
 
@@ -50,32 +52,3 @@ while True:
     learn()
     build()
     improve()
-
-
----
-
-⚙️ Skills
-
-<div align="center"><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark"></div>
-
----
-
-📊 GitHub Analytics
-
-<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuriloDevv&theme=github_dark"><br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloDevv&theme=github_dark"></div>
-
----
-
-📈 Contributions
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"></div>
-
----
-
-<div align="center"><br>Code. Learn. Build. Repeat.
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS" alt="Profile Views"></div>
