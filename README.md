@@ -6,9 +6,9 @@
 
 # 𝙈𝙪𝙧𝙞𝙡𝙤𝘿𝙚𝙫𝙫
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=FFFFFF&background=00000000&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%E2%80%A2+Java+%E2%80%A2+Web+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing subtitle">
 
-<br><br>
+<br>
 
 <a href="https://github.com/MuriloDevv">
 <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub">
@@ -18,13 +18,32 @@
 
 ---
 
-## `01` · About Me
+## 💻 Languages
 
-I'm **Murilo**, a developer focused on **Web Development** and **Backend Programming**.
+<div align="center">
 
-Currently learning and improving my skills in **Python, Java, Flask, PostgreSQL, HTML, CSS, Git and GitHub**.
+<img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark">
 
-I like building **practical projects**, understanding how things work behind the scenes and constantly improving my code.
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hey! I'm **Murilo**.
+
+I'm a developer focused on **Web Development** and **Backend Programming**.
+
+Currently improving my skills with:
+
+- **HTML & CSS**
+- **Python**
+- **Java**
+- **Flask**
+- **PostgreSQL**
+- **Git & GitHub**
+
+I enjoy creating **projects**, learning **new technologies** and understanding how things work behind the scenes.
 
 ```python
 while True:
@@ -35,30 +54,27 @@ while True:
 
 ---
 
-02 · Languages
-
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,python,java&theme=dark"></div>
----
-
-03 · Skills
+⚙️ Skills
 
 <div align="center"><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark"></div>
+
 ---
 
-04 · GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuriloDevv&theme=github_dark"><br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuriloDevv&theme=github_dark"></div>
+
 ---
 
-05 · Contributions
+📈 Contributions
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"></div>
 
 ---
 
-<div align="center"><br> Code. Learn. Build. Repeat.
+<div align="center"><br>Code. Learn. Build. Repeat.
 
 <br><br>
 
