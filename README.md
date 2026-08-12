@@ -58,7 +58,7 @@ while True:
 
 ---
 
-<div align="center"><br>Code. Learn. Build. Repeat.
+<div align="center"><br> Code. Learn. Build. Repeat.
 
 <br><br>
 
