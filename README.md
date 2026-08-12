@@ -78,4 +78,4 @@ while True:
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS"></div>
+<img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS"></div> 
