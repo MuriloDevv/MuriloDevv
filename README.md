@@ -66,11 +66,11 @@ while True:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&theme=github_dark&hide_border=true" width="90%">
+<img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="90%">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDevv&layout=compact&theme=github_dark&hide_border=true" width="90%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDevv&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="90%">
 
 </div>
 
@@ -89,6 +89,8 @@ while True:
 <div align="center">
 
 <h3>Code. Learn. Build. Repeat.</h3>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&label=PROFILE+VIEWS">
 
