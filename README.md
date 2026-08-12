@@ -26,7 +26,7 @@ Currently learning and improving my skills in **Python, Java, Flask, PostgreSQL,
 
 I like building **practical projects**, understanding how things work behind the scenes and constantly improving my code.
 
-```python
+    python
 while True:
     learn()
     build()
@@ -43,6 +43,7 @@ while True:
 03 · Skills
 
 <div align="center"><img src="https://skillicons.dev/icons?i=flask,postgresql,git,github&theme=dark"></div>
+
 ---
 
 04 · GitHub Analytics
@@ -64,4 +65,3 @@ while True:
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=MuriloDevv&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS" alt="Profile Views"></div>
-```
