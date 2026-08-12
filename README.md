@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/74/7f/32/747f3259d7ba13e137721399b946b4cc.jpg" width="80%" alt="Banner">
+<img src="https://i.pinimg.com/736x/74/7f/32/747f3259d7ba13e137721399b946b4cc.jpg" width="100%" alt="Banner">
 
 <br><br>
 
@@ -78,10 +78,6 @@ while True:
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuriloDevv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="90%" alt="GitHub Stats">
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloDevv&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="90%" alt="Languages">
-
 </div>
 
 <hr>
@@ -92,15 +88,9 @@ while True:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph">
 
-</div>
+<br><br>
 
-<br>
-
-<h2>🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MuriloDevv/MuriloDevv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloDevv&theme=github-dark&hide_border=true" width="90%" alt="Commit Streak">
 
 </div>
 
