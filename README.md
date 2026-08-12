@@ -55,6 +55,7 @@ while True:
 05 · Contributions
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MuriloDevv&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"></div>
+
 ---
 
 <div align="center"><br>Code. Learn. Build. Repeat.
